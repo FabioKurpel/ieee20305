@@ -12,4 +12,4 @@ O arquivo principal é teste.py, nele foi implementado o processo de registro de
 O processo de registro de novos dispositivos, com seu fluxograma e padronização de formatos de requisição GET e POST pode ser encontrado na página 272 da norma.
 
 Links Úteis:
-  +[Instalação da API Flask e do ambiente virtual](https://phoenixnap.com/kb/install-flask)
+  + [Instalação da API Flask e do ambiente virtual](https://phoenixnap.com/kb/install-flask)
