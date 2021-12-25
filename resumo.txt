@@ -1,0 +1,15 @@
+os inversores geram dados em r5-485 modbus
+
+deve-se transformar em sunspec modbus em um raspberry pi(trabalho do leonardo)
+
+essa raspberry pi é um concentrador dos dados de todos os inversores do campus
+
+o raspberry converte também de sunspec modbus para ieee 2030.5 e manda tudo pro servidor
+
+15471-2020
+
+pagina 147
+
+pesquisar como conectar ao postgree
+
+o cliente tem que acessar dbus pra receber sunspec

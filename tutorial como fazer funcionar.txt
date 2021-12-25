@@ -1,0 +1,7 @@
+
+fazer funcionar flask
+https://phoenixnap.com/kb/install-flask
+
+
+fazer funcionar tls
+https://blog.miguelgrinberg.com/post/running-your-flask-application-over-https
