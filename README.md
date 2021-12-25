@@ -7,5 +7,6 @@ O arquivo principal é teste.py, nele foi implementado o processo de registro de
   + raiz: essa função é chamada quando invocado o caminho /edev. Ao fazer uma requisição GET nesse caminho a resposta é a lista de dispositivos registrados na rede. Ao fazer um POST
   com os dados de *sFID* e *changedTime* é registrado no banco de dados o novo dispositivo e gerada a nova rota;
   + serializer: responsável por transformar as informações contidas no banco de dados de dispositivos para o formato XML contido na norma;
+
 O processo de registro de novos dispositivos, com seu fluxograma e padronização de formatos de requisição GET e POST pode ser encontrado na página 272 da norma.
 
